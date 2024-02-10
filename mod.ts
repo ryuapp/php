@@ -4,3 +4,4 @@ export { asin } from "./math/asin.ts";
 export { cos } from "./math/cos.ts";
 export { checkdate } from "./date/checkdate.ts";
 export { sin } from "./math/sin.ts";
+export { tan } from "./math/tan.ts";
