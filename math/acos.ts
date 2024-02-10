@@ -1,6 +1,7 @@
 /**
- * Returns the arc cosine of num in radians. \
- * acos() is the inverse function of cos(), which means that `num == cos(acos(num))` for every value of num that is in the domain of acos().
+ * Returns the arc cosine of num in radians.\
+ * The num parameter is in radians.
+ *
  * @param {number} num An angle in radians
  * @return {number} The arc cosine of num in radians
  */

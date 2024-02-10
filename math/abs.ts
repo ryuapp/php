@@ -1,5 +1,6 @@
 /**
  * Returns the absolute value of num.
+ *
  * @param {number} num
  * @return {number} Absolute value of num
  */
