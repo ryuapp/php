@@ -1,3 +1,3 @@
 # php
 
-PHP function for TypeScript.
+PHP functions for TypeScript.
